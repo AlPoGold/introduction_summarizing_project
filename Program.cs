@@ -9,16 +9,16 @@ for(int i =0; i<size; i++)
         count++;
     } 
 }
-string[] wordsWithThreeChars = new string[count];
-int index = 0;
+string[] newArray = new string[count];
+int newIndex = 0;
 foreach (string word in words)
 {
     if(word.Length<=3)
     {
-        wordsWithThreeChars[index] = word;
-        index++;
+        newArray[newIndex] = word;
+        newIndex++;
 
     }
 }
 
-foreach(string word in wordsWithThreeChars) Console.WriteLine(word);
+foreach(string word in newArray) Console.WriteLine(word);
