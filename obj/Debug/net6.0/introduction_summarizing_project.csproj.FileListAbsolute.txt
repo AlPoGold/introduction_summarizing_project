@@ -1,0 +1,15 @@
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\obj\Debug\net6.0\introduction_summarizing_project.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\obj\Debug\net6.0\introduction_summarizing_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\obj\Debug\net6.0\introduction_summarizing_project.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\obj\Debug\net6.0\introduction_summarizing_project.AssemblyInfo.cs
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\obj\Debug\net6.0\introduction_summarizing_project.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\bin\Debug\net6.0\introduction_summarizing_project.exe
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\bin\Debug\net6.0\introduction_summarizing_project.deps.json
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\bin\Debug\net6.0\introduction_summarizing_project.runtimeconfig.json
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\bin\Debug\net6.0\introduction_summarizing_project.dll
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\bin\Debug\net6.0\introduction_summarizing_project.pdb
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\obj\Debug\net6.0\introduction_summarizing_project.dll
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\obj\Debug\net6.0\refint\introduction_summarizing_project.dll
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\obj\Debug\net6.0\introduction_summarizing_project.pdb
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\obj\Debug\net6.0\introduction_summarizing_project.genruntimeconfig.cache
+C:\Users\Админ\Documents\EDUCATION\GEEKBRAINS\PREPAIRING\summarizing_project\introduction_summarizing_project\obj\Debug\net6.0\ref\introduction_summarizing_project.dll
